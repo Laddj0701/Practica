@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+vciudades= ["Caracas", "Lima", "Bogota", "Quito"]
+for velementoenvciudades in vciudades:
+    print(velementoenvciudades)
