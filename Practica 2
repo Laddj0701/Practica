@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+vCiudad = str(input("Ingrese una ciudad: "))
+if vCiudad == ("Bogota"):
+    print("Bienvenido a Bogota")
+elif vCiudad != ("Bogota"):
+    print ("Usted no esta en Bogota")
